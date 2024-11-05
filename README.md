@@ -46,13 +46,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. On first run, you'll be prompted with a master password
-3. Use the following:
-   - `add` - Add a new password entry
-   - `view` - View stored passwords
-   - `edit` - Modify existing entries
-   - `delete` - Remove password entries
-   - `import csv` - Import from backup csv
+2. On first run, you'll be prompted with a master password. Make sure to remember this password.
+
 
 ## Security Features
 
