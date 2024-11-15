@@ -1,6 +1,6 @@
 # PSSMngr - Personal Password Manager
 
-A secure, offline password manager that helps you store and manage your passwords locally. Built with Python, PSMngr provides a clean, minimal interface while keeping your sensitive data encrypted and secure on your local machine.
+A secure, offline password manager that helps you store and manage your passwords locally. Built with Python, PSMngr provides a clean, minimal interface while keeping your sensitive data encrypted and secure on your local machine. (getting a recode in c#)
 
 ![PSSMngr Interface](interface.gif)
 
